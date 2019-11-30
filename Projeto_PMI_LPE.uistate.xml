@@ -1,0 +1,216 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2uistate>
+    <!--This is a UI state file - its content describes the user interface settings when the project was last open.
+It is entirely optional and the project will load without it.  If you are placing the project under source control,
+you probably do not want to add any .uistate.xml files to the repository.-->
+    <configurations>
+        <active>
+            <configuration name="HTML5" />
+        </active>
+        <display name="HTML5" />
+    </configurations>
+    <open-tabs>
+        <layout active="1" order="0">main_menu</layout>
+        <layout order="9">guiaDeInstrucao</layout>
+        <layout order="2">ajuda</layout>
+        <layout order="3">fase1</layout>
+        <layout order="4">fase2</layout>
+        <layout order="5">fase5</layout>
+        <layout order="6">fase6</layout>
+        <layout order="8">fase3</layout>
+        <layout order="7">fase4</layout>
+        <event-sheet order="10">Event sheet 1</event-sheet>
+        <event-sheet order="1">Event do guia</event-sheet>
+    </open-tabs>
+    <properties>
+        <property expanded="1" name="About" />
+        <property expanded="0" name="Project settings" />
+        <property expanded="1" name="Window Size" />
+        <property expanded="1" name="Configuration Settings" />
+    </properties>
+    <families-expanded root="1" />
+    <folders-expanded>
+        <folder expanded="1" path="object-folder/" />
+        <folder expanded="1" path="layout-folder/" />
+        <folder expanded="0" path="event-folder/" />
+        <folder expanded="0" path="file-folder/" />
+        <folder expanded="1" path="sound-folder/" />
+        <folder expanded="1" path="music-folder/" />
+        <folder expanded="0" path="file-folder/Icons/" />
+        <folder expanded="1" path="animation-folder/personagem/" />
+        <folder expanded="1" path="animation-folder/canoVermelho/" />
+        <folder expanded="1" path="animation-folder/tijoloVoador/" />
+        <folder expanded="1" path="animation-folder/chaoAlto/" />
+        <folder expanded="1" path="animation-folder/titulo/" />
+        <folder expanded="1" path="animation-folder/menu/" />
+        <folder expanded="1" path="animation-folder/tituloJogo/" />
+        <folder expanded="1" path="animation-folder/fundoCeu/" />
+        <folder expanded="1" path="animation-folder/balaoConversa/" />
+        <folder expanded="1" path="animation-folder/transicao2/" />
+        <folder expanded="1" path="animation-folder/transicao/" />
+        <folder expanded="1" path="animation-folder/telaPreta/" />
+        <folder expanded="1" path="animation-folder/fundo/" />
+        <folder expanded="1" path="animation-folder/arvore/" />
+        <folder expanded="1" path="animation-folder/spritearvore/" />
+        <folder expanded="1" path="animation-folder/caixaDeTexto/" />
+        <folder expanded="1" path="animation-folder/fundoNovo/" />
+        <folder expanded="1" path="animation-folder/botaoProximo/" />
+        <folder expanded="1" path="animation-folder/camera/" />
+        <folder expanded="1" path="animation-folder/solido/" />
+        <folder expanded="1" path="animation-folder/setaDireita/" />
+        <folder expanded="1" path="animation-folder/setaCima/" />
+        <folder expanded="1" path="animation-folder/setaEsquerda/" />
+        <folder expanded="1" path="animation-folder/macaco/" />
+        <folder expanded="1" path="animation-folder/pinguin/" />
+        <folder expanded="1" path="animation-folder/areaTexto/" />
+        <folder expanded="1" path="animation-folder/setaTexto/" />
+        <folder expanded="1" path="animation-folder/setaAmarela/" />
+        <folder expanded="1" path="animation-folder/canoVermelhoParede/" />
+        <folder expanded="1" path="animation-folder/princesa/" />
+        <folder expanded="1" path="animation-folder/planta/" />
+        <folder expanded="1" path="animation-folder/parede/" />
+        <folder expanded="1" path="animation-folder/parede2/" />
+        <folder expanded="1" path="animation-folder/parede3/" />
+        <folder expanded="1" path="animation-folder/parede4/" />
+        <folder expanded="1" path="animation-folder/parede5/" />
+        <folder expanded="1" path="animation-folder/parede6/" />
+        <folder expanded="1" path="animation-folder/parede7/" />
+        <folder expanded="1" path="animation-folder/balaoPixel/" />
+        <folder expanded="1" path="animation-folder/opcao1/" />
+        <folder expanded="1" path="animation-folder/opcao2/" />
+        <folder expanded="1" path="animation-folder/opcao3/" />
+        <folder expanded="1" path="animation-folder/explosao/" />
+        <folder expanded="1" path="animation-folder/fundoNovo2/" />
+        <folder expanded="1" path="animation-folder/castelo/" />
+        <folder expanded="1" path="animation-folder/castelo2/" />
+        <folder expanded="1" path="animation-folder/castelo3/" />
+        <folder expanded="1" path="animation-folder/canoVermelho2/" />
+        <folder expanded="1" path="animation-folder/banana/" />
+        <folder expanded="1" path="animation-folder/banana2/" />
+        <folder expanded="1" path="animation-folder/fundoNovo3/" />
+        <folder expanded="1" path="animation-folder/banana3/" />
+        <folder expanded="1" path="animation-folder/banana4/" />
+        <folder expanded="1" path="animation-folder/banana5/" />
+        <folder expanded="1" path="animation-folder/banana6/" />
+        <folder expanded="1" path="animation-folder/parede8/" />
+        <folder expanded="1" path="animation-folder/balaoPixel2/" />
+        <folder expanded="1" path="animation-folder/banana7/" />
+        <folder expanded="1" path="animation-folder/caixote5/" />
+        <folder expanded="1" path="animation-folder/caixote6/" />
+        <folder expanded="1" path="animation-folder/moedas/" />
+        <folder expanded="1" path="animation-folder/moedas2/" />
+        <folder expanded="1" path="animation-folder/porta/" />
+        <folder expanded="1" path="animation-folder/areaporta/" />
+        <folder expanded="1" path="animation-folder/piso2/" />
+        <folder expanded="1" path="animation-folder/arvore1/" />
+        <folder expanded="1" path="animation-folder/arvore2/" />
+        <folder expanded="1" path="animation-folder/arvore3/" />
+        <folder expanded="1" path="animation-folder/arvore4/" />
+        <folder expanded="1" path="animation-folder/arvore22/" />
+        <folder expanded="1" path="animation-folder/pisoDuro/" />
+        <folder expanded="1" path="animation-folder/florVermelha/" />
+        <folder expanded="1" path="animation-folder/florVermelha2/" />
+        <folder expanded="1" path="animation-folder/florVermelha3/" />
+        <folder expanded="1" path="animation-folder/tijoloVoador2/" />
+        <folder expanded="1" path="animation-folder/tijoloVoador3/" />
+        <folder expanded="1" path="animation-folder/tijoloVoador4/" />
+        <folder expanded="1" path="animation-folder/tijoloVoador5/" />
+        <folder expanded="1" path="animation-folder/tijoloVoador6/" />
+        <folder expanded="1" path="animation-folder/tijoloVoador7/" />
+        <folder expanded="1" path="animation-folder/tijoloVoador8/" />
+        <folder expanded="1" path="animation-folder/pisogramado/" />
+        <folder expanded="1" path="animation-folder/pisogramado2/" />
+        <folder expanded="1" path="animation-folder/pisogramado3/" />
+        <folder expanded="1" path="animation-folder/arvoreroxa/" />
+        <folder expanded="1" path="animation-folder/arvoreroxa1/" />
+        <folder expanded="1" path="animation-folder/pisogramado4/" />
+        <folder expanded="1" path="animation-folder/pisogramado5/" />
+        <folder expanded="1" path="animation-folder/pisogramado6/" />
+        <folder expanded="1" path="animation-folder/pisogramado7/" />
+        <folder expanded="1" path="animation-folder/pisogramado8/" />
+        <folder expanded="1" path="animation-folder/pisogramado9/" />
+        <folder expanded="1" path="animation-folder/paredePedra/" />
+        <folder expanded="1" path="animation-folder/moedas3/" />
+        <folder expanded="1" path="animation-folder/tijoloVoador9/" />
+        <folder expanded="1" path="animation-folder/porta2/" />
+        <folder expanded="1" path="animation-folder/morcego/" />
+        <folder expanded="1" path="animation-folder/pedra/" />
+        <folder expanded="1" path="animation-folder/caverna64/" />
+        <folder expanded="1" path="animation-folder/direcional/" />
+        <folder expanded="1" path="animation-folder/direcional2/" />
+        <folder expanded="1" path="animation-folder/setaTexto2/" />
+        <folder expanded="1" path="animation-folder/direcionalBaixo/" />
+        <folder expanded="1" path="animation-folder/direcionalAlto/" />
+        <folder expanded="1" path="animation-folder/moedas4/" />
+        <folder expanded="1" path="animation-folder/moedas5/" />
+        <folder expanded="1" path="animation-folder/dinossauro/" />
+        <folder expanded="1" path="animation-folder/opcaoSeta/" />
+        <folder expanded="1" path="animation-folder/opcaoSeta2/" />
+        <folder expanded="1" path="animation-folder/opcaoSeta3/" />
+        <folder expanded="1" path="animation-folder/errado3/" />
+        <folder expanded="1" path="animation-folder/canoVerde/" />
+        <folder expanded="1" path="animation-folder/opcaoUm/" />
+        <folder expanded="1" path="animation-folder/opcaoUm2/" />
+        <folder expanded="1" path="animation-folder/opcaoUm3/" />
+        <folder expanded="1" path="animation-folder/certo/" />
+        <folder expanded="1" path="animation-folder/balaoPixel3/" />
+        <folder expanded="1" path="animation-folder/errado4/" />
+        <folder expanded="1" path="animation-folder/opcao4/" />
+        <folder expanded="1" path="animation-folder/errado5/" />
+        <folder expanded="1" path="animation-folder/maca/" />
+        <folder expanded="1" path="animation-folder/canoVermelhoFase2/" />
+        <folder expanded="1" path="animation-folder/inicioMaca/" />
+        <folder expanded="1" path="animation-folder/paredeLateral/" />
+        <folder expanded="1" path="animation-folder/moedasTotal/" />
+        <folder expanded="1" path="animation-folder/qtdeMaca/" />
+        <folder expanded="1" path="animation-folder/cahorro/" />
+        <folder expanded="1" path="animation-folder/cachorro/" />
+        <folder expanded="1" path="animation-folder/morcegoStatus/" />
+        <folder expanded="1" path="animation-folder/moedas6/" />
+        <folder expanded="1" path="animation-folder/caixamorcego/" />
+        <folder expanded="1" path="animation-folder/btpause/" />
+        <folder expanded="1" path="animation-folder/moedas7/" />
+        <folder expanded="1" path="animation-folder/balaoPixel4/" />
+        <folder expanded="1" path="animation-folder/inicioMaca2/" />
+        <folder expanded="1" path="animation-folder/canoVerde2/" />
+        <folder expanded="1" path="animation-folder/fundoBranco/" />
+        <folder expanded="1" path="animation-folder/balaoPixel5/" />
+        <folder expanded="1" path="animation-folder/iniciofase5/" />
+        <folder expanded="1" path="animation-folder/balaoPixel6/" />
+        <folder expanded="1" path="animation-folder/balaoPixel7/" />
+        <folder expanded="1" path="animation-folder/estrela/" />
+        <folder expanded="1" path="animation-folder/estrela2/" />
+        <folder expanded="1" path="animation-folder/estrela3/" />
+        <folder expanded="1" path="animation-folder/estrela4/" />
+        <folder expanded="1" path="animation-folder/estrela5/" />
+        <folder expanded="1" path="animation-folder/estrela6/" />
+        <folder expanded="1" path="animation-folder/estrela7/" />
+        <folder expanded="1" path="animation-folder/estrela8/" />
+        <folder expanded="1" path="animation-folder/estrela9/" />
+        <folder expanded="1" path="animation-folder/estrela10/" />
+        <folder expanded="1" path="animation-folder/estrela11/" />
+        <folder expanded="1" path="animation-folder/estrela12/" />
+        <folder expanded="1" path="animation-folder/estrela13/" />
+        <folder expanded="1" path="animation-folder/estrela14/" />
+        <folder expanded="1" path="animation-folder/estrela15/" />
+        <folder expanded="1" path="animation-folder/estrela16/" />
+        <folder expanded="1" path="animation-folder/estrela17/" />
+        <folder expanded="1" path="animation-folder/estrela18/" />
+        <folder expanded="1" path="animation-folder/estrela19/" />
+        <folder expanded="1" path="animation-folder/balaoPixel8/" />
+        <folder expanded="1" path="animation-folder/btMenu/" />
+        <folder expanded="1" path="animation-folder/ceuDuro/" />
+        <folder expanded="1" path="animation-folder/paredeDireita/" />
+        <folder expanded="1" path="animation-folder/paredeEsquerda/" />
+        <folder expanded="1" path="animation-folder/caixaDeTextoGuia/" />
+        <folder expanded="1" path="animation-folder/menuExibição/" />
+        <folder expanded="1" path="animation-folder/paredaoDuro/" />
+        <folder expanded="1" path="animation-folder/caixaDeRenascimento/" />
+        <folder expanded="1" path="animation-folder/balaoPixel9/" />
+        <folder expanded="1" path="animation-folder/ponteFinal/" />
+        <folder expanded="1" path="animation-folder/balaoPixel10/" />
+        <folder expanded="1" path="animation-folder/sim/" />
+        <folder expanded="1" path="animation-folder/nao/" />
+        <folder expanded="1" path="animation-folder/perguntaSimNao/" />
+    </folders-expanded>
+</c2uistate>
